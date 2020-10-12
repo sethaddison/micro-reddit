@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Micro-reddit</h1>
 
-Things you may want to cover:
+Micro-reddit is a small assignment from Odin Project. The assignment was to build a rails app with 3 models:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1) Users - Users can have many posts and many comments
+2) Posts - Posts belong to a user, and have many comments
+3) Comments - Comments belong to a user and a post
