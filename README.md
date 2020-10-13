@@ -1,6 +1,4 @@
-# README
-
-<h1>Micro-reddit</h1>
+# Micro-reddit
 
 Micro-reddit is a small assignment from Odin Project. The assignment was to build a rails app with 3 models:
 
